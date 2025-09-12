@@ -256,6 +256,7 @@ header {
     color: #212121;
     line-height: 1.6;
     padding-bottom: 6rem;
+    text-align: justify;
 }
 
 .experience {
@@ -520,7 +521,7 @@ header {
 
 @media (max-width: 600px) {
     .header-container {
-        padding: 1.5rem 2rem;
+        padding: 1.5rem 1rem;
     }
 
     .logo h2 {
@@ -554,7 +555,7 @@ header {
     }
 
     .hero {
-        padding: 3rem 2rem;
+        padding: 3rem 1rem;
         display: block;
         justify-content: space-between;
         align-items: center;
@@ -612,7 +613,7 @@ header {
     }
 
     .about {
-        padding: 3rem 2rem 0rem 2rem;
+        padding: 3rem 1rem 0rem 1rem;
     }
 
     .section-title {
@@ -620,7 +621,7 @@ header {
     }
 
     .experience {
-        padding: 0rem 2rem 3rem 2rem;
+        padding: 0rem 1rem 3rem 1rem;
         background: linear-gradient(to left, #02569B, #13B9FD);
     }
 
@@ -633,7 +634,7 @@ header {
     }
 
     .projects {
-        padding: 2rem;
+        padding: 1rem;
     }
 
     .project-items {
@@ -658,7 +659,7 @@ header {
     }
 
     .skills {
-        padding: 0rem 2rem 2rem 2rem;
+        padding: 0rem 1rem 2rem 1rem;
     }
 
     .skills-items {
@@ -678,7 +679,7 @@ header {
     }
 
     .certification {
-        padding: 2rem;
+        padding: 1rem;
     }
 
     .cert-items {
