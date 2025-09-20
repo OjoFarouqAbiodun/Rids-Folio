@@ -496,7 +496,7 @@ header {
 }
 .contact-content button:hover {
     background-color: #ffd60a;
-    transition: 1s ease;
+    transition: 0.2s ease;
 }
 
 .footer {
